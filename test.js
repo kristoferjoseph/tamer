@@ -78,7 +78,7 @@ const extensions2 = {
 function strip (s) {
   return s.replace(/\s/g, '')
 }
-let pass = true
+let pass = false
 try {
   assert.equal(strip(tame(extensions)), strip(expected))
   assert.equal(strip(tame(extensions2)), strip(expected2))

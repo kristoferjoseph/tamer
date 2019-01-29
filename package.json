@@ -1,0 +1,24 @@
+{
+  "name": "tamer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "css": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristoferjoseph/tamer.git"
+  },
+  "keywords": [],
+  "author": "@dam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kristoferjoseph/tamer/issues"
+  },
+  "homepage": "https://github.com/kristoferjoseph/tamer#readme"
+}
